@@ -1,0 +1,22 @@
+[
+  {"text": "You're not ugly, you're just broke."},
+  {"text": "Drama? I bring the whole theater."},
+  {"text": "Not everyone likes me. Good, I'm not a WiFi signal."},
+  {"text": "Your secrets are safe with me. I never even listen."},
+  {"text": "Sipping tea while your life's falling apart. ☕"},
+  {"text": "I'm not bossy, I just know what you should be doing."},
+  {"text": "You're the human version of a participation trophy."},
+  {"text": "Cancel me? Babe, I was never subscribed."},
+  {"text": "You're not special, you're just loud."},
+  {"text": "Keep rolling your eyes, maybe you'll find a brain back there."},
+  {"text": "Oops, did my back hurt from carrying the conversation?"},
+  {"text": "Trust issues? B*tch, I have reality issues."},
+  {"text": "Serving looks while serving zero f*cks."},
+  {"text": "I’m not arguing, I’m just explaining why I’m right."},
+  {"text": "Some people graduate with honors, I am just honored to graduate."},
+  {"text": "Normalize blocking people for peace. ✌️"},
+  {"text": "I don't chase, I attract... bad decisions mostly."},
+  {"text": "If karma doesn't hit you, I gladly will."},
+  {"text": "Don't worry, the trash took itself out."},
+  {"text": "Life's too short to pretend I like you."}
+]
